@@ -1,7 +1,7 @@
 # Description
-```
+
  AutoFirmXtractor is a Firmware Data Extraction Tool that will automatically extract data from any firmware file.
-```
+
 # Installation
 ```
 git clone https://github.com/CyberSec-Unlocked/AutoFirmXtractor.git
