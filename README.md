@@ -7,7 +7,7 @@ AutoFirmXtractor is a Firmware Data Extraction Tool that will automatically extr
   chmod +x AutoFirmXtractor.sh
 
 # Tool Usage
-AutoFirmXtractor.sh -f [firmware_file] -p [prefix]
+./AutoFirmXtractor.sh -f [firmware_file] -p [prefix]
 
 -f [firmware_file] Path to the Firmware File
 
