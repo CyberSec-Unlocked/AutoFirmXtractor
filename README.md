@@ -14,4 +14,4 @@ AutoFirmXtractor is a Firmware Data Extraction Tool that will automatically extr
 -p [prefix]        Provide the Firmware Name itself as Prefix for the output files generation
 
 # Tool Usage Example
-AutoFirmXtractor.sh -f routerfirmware.bin -p routerfirmware
+./AutoFirmXtractor.sh -f routerfirmware.bin -p routerfirmware
