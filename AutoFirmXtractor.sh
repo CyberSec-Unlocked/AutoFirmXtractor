@@ -41,7 +41,7 @@ echo "Firmware Data Extraction Processes Initiated......"
 # Define commands and their respective short forms
 commands=(
   "file $firmware_file" 
-#  "strings $firmware_file"
+# "strings $firmware_file"
 # "strings -n16 $firmware_file"
 # "strings -tx $firmware_file"
   "strings $firmware_file | grep pass"
