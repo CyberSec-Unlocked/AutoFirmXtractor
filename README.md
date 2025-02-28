@@ -1,6 +1,6 @@
 # Description
 
- AutoFirmXtractor is a Firmware Data Extraction Tool that will automatically extract data from any firmware file.
+ AutoFirmXtractor is a firmware data extraction automation tool script, which can be used during static firmware vulnerability assessments.
 
 # Installation
 ```
