@@ -6,7 +6,7 @@
 # Features
 
 - Finds interesting and sensitive files using predefined **strings** and **grep** combination commands.
-- Firmware Extraction.
+- Identify, Extract and Analyse firmware file data.
 
 # Prerequisite
 
