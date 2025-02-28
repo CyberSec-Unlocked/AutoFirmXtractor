@@ -10,7 +10,7 @@
 
 # Prerequisite
 
- Binwalk tool
+ - Binwalk tool
 
 # Installation
 ```
